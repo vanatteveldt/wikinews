@@ -44,7 +44,7 @@ scrape_year = function(year) {
 }
 
 articles = scrape_year(year) 
-fn = glue("wikinews_{year}.csv")
+fn = glue("data/wikinews_{year}.csv")
 message(glue("Writing {nrow(articles)} to {fn}"))
 write_csv(articles, fn)
 
