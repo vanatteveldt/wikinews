@@ -1,3 +1,4 @@
+[![License: CC BY 2.5](https://img.shields.io/badge/License-CC%20BY%202.5-lightgrey.svg)](https://creativecommons.org/licenses/by/2.5/)
 # Wikinews sample articles
 
 This repository contains articles from wikinews that can be useful if you need example news articles. 
